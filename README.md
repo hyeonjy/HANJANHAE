@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/ce7446f7-7d6f-428a-b077-77d97e6eac81" width="28px"/> 한잔해
 
-### 나만을 위한 AI 맞춤 전통주 큐레이션! -> [사이트 보러가기](https://hanjanhae.vercel.app/) 
+### 나만을 위한 AI 맞춤 전통주 큐레이션! -> [사이트 보러가기](https://hanjanhae-xiyo.vercel.app/) 
 
 ![한잔해 이미지 1](https://github.com/user-attachments/assets/cd74aecc-c606-4260-83d4-f90d3a899262)
 
