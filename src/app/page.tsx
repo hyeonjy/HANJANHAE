@@ -17,6 +17,11 @@ export const revalidate = 0;
 export const metadata: Metadata = {
   title: '한잔해',
   description: 'AI 추천 기반 전통주를 만나보세요!',
+  openGraph: {
+    title: '한잔해',
+    description: 'AI 추천 기반 전통주를 만나보세요!',
+    images: ['/assets/og_image.png'],
+  },
 };
 
 const Home = async () => {
