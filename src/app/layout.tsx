@@ -25,6 +25,7 @@ const Footer = dynamic(() => import('@/components/layout/Footer'), {
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://hanjanhae-sepia.vercel.app'),
   title: '한잔해',
   description: 'AI 추천 기반 전통주를 만나보세요!',
   icons: {
