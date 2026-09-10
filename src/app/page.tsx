@@ -12,7 +12,7 @@ import { fetchPopularDrinks } from './actions/drink';
 import { fetchPlaces } from './actions/place';
 
 // ISR 설정
-export const revalidate = 518400;
+export const revalidate = 0;
 
 export const metadata: Metadata = {
   title: '한잔해',
